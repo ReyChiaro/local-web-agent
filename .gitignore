@@ -1,0 +1,9 @@
+.vscode
+__pycache__/
+BitNet/
+vectorstore/
+venv/
+.env
+*.pkl
+*.faiss
+*.log
