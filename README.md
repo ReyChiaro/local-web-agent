@@ -163,7 +163,7 @@ CHAT_LOG_PATH = LOG_FOLDER / Path("chat.log")
 
 This project is still in develop, there are many steps we can take in the future:
 
-- ⬜️ Beautify the ouputs
+- ⬜️ Beautify the outputs
 - ⬜️ Clean the input website contents without tags
 - ⬜️ Integrate more powerful models into this project
 - ⬜️ Multimodel support
